@@ -5,7 +5,7 @@ demo:
 
 [返回到索引](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Outlook 中的 Copilot
+# Outlook 中的 Microsoft 365 Copilot
 
 ## 演示设置
 
@@ -40,7 +40,7 @@ demo:
 1. 在电子邮件的主题下方，选择“**Copilot 的摘要**”并指出结果。
 1. 在页面顶部选择“**全部答复**”。
 1. 在新电子邮件字段的底部，指出“**使用 Copilot撰写草稿**”部分和建议的提示。
-1. 选择“自定义”。
+1. 选择“自定义”。****
 
     ![显示适用于 Outlook 的 Copilot 中的自定义提示选项的屏幕截图。](../Demos/Media/outlook_custom.png)
 
