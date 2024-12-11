@@ -5,7 +5,7 @@ demo:
 
 [返回到索引](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Teams 中的 Copilot
+# Teams 中的 Microsoft 365 Copilot
 
 ## 演示设置
 
@@ -67,21 +67,21 @@ demo:
     Can you list action items and owners in a table?
     ```
 
-1. 选择“发送”。
+1. 选择**Send**。
 1. 在“**询问关于此会议的任何内容**”的文本框的中，复制并粘贴提示： 
 
     ```text
     Did anyone strongly oppose the decision, and how do you know?
     ```
     
-1. 选择“发送”。
+1. 选择**Send**。
 1. 在“**询问关于此会议的任何内容**”的文本框的中，复制并粘贴提示：
 
     ```text
     Based on the transcript, when would you recommend we launch the product and why?
     ```
 
-1. 选择“发送”。
+1. 选择**Send**。
 
 ## 选项 B - Teams 聊天
 

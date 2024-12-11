@@ -1,11 +1,11 @@
 ---
 demo:
-  title: 演示：Microsoft Copilot（工作范围）
+  title: 演示：Business Chat
 ---
 
 [返回到索引](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Microsoft Copilot（工作范围）
+# Business Chat（工作范围）
 
 ## 演示设置
 
@@ -15,7 +15,7 @@ demo:
 
 ## 讲座要点
 
-“Copilot for Microsoft 365 在工作范围内运行，Copilot 利用 Microsoft 365 安全性来保护数据，并在组织的合规性边界内运行其所有服务。
+“Business Chat 在工作范围内运行，Copilot 利用 Microsoft 365 安全性来保护数据，并在组织的合规性边界内运行其所有服务。
 
 这里，在工作范围内，我们将使用来自 Microsoft Graph 的信息来增强 Copilot。 我们从一些基本的知识管理开始。 了解在何处以及从谁那里获得信息是一个反复出现的知识管理挑战。 我们来看看组织中谁可以告诉我关于上下文关联和 LLM 的信息。
 
@@ -29,9 +29,9 @@ Copilot 正在学习如何考虑日历。 它能够处理和汇总这些信息�
 
 > **重要说明：** 要进一步自定义提示，请查找非机密电子邮件或会议，并要求 Copilot 汇总或列出操作项。 重要说明：选择人员时，请选择不与之共享机密信息的人员！
 
-1. 在左上角，将切换开关切换到“**工作**”。
+1. 在顶部中央，将切换按钮切换到“**工作**”。
 
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴提示： 
+1. 在“**给 Copilot 发送消息**”文本框中，复制并粘贴提示： 
 
     ```text
     What is "grounding" for an LLM and how does it work? If I wanted to know more about it, who would be able to help me?
@@ -39,7 +39,7 @@ Copilot 正在学习如何考虑日历。 它能够处理和汇总这些信息�
 
 1. 选择“提交”**** 按钮。
 
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴内容，或键入内容： 
+1. 在“**Message Copilot**”文本框中，复制并粘贴或键入： 
 
     ```text
     Can you summarize the last five emails from “/”.
@@ -59,7 +59,7 @@ Copilot 正在学习如何考虑日历。 它能够处理和汇总这些信息�
 
 1. 选择“提交”。
 
-1. **可选：** 在“**有问题尽管问我...**”文本框中，复制并粘贴提示：
+1. **可选：** 在“**给 Copilot 发送消息**”文本框中，复制并粘贴提示：
 
     ```text
     Can you summarize the last five emails from my boss? To be specific, look for the last five emails from my boss over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
@@ -67,7 +67,7 @@ Copilot 正在学习如何考虑日历。 它能够处理和汇总这些信息�
 
     然后选择 **“提交”**。
 
-1. **可选：** 在“*有问题尽管问我...*”文本框中，复制并粘贴提示：
+1. **可选：** 在“*给 Copilot 发送消息*”文本框中，复制并粘贴提示：
 
     ```text
     Review my meetings this week and create 5-7 categories that describe how I am spending my time. For each category, provide a short description and give me an approximate percentage of time I spent there.

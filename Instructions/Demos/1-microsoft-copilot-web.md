@@ -1,18 +1,17 @@
 ---
-Layout: default
 demo:
-  title: 演示：Microsoft Copilot（Web 范围）
+  title: 演示：Microsoft Copilot (copilot.microsoft.com)
 ---
 
 [返回到索引](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Microsoft Copilot（Web 范围）
+# Microsoft Copilot (copilot.microsoft.com)
 
 ## Copilot 和大型语言模型
 
 ### 讲座要点
 
-Microsoft Copilot Web 版为你提供了一个 AI 支持的个人助手，可以回答问题并帮助完成常规任务。 我可以问它问题，它会给出答案，并且是受过高等教育的人所给出的答案水平。
+Microsoft Copilot 为你提供了一个 AI 支持的个人助手，可以回答问题并帮助完成常规任务。 我可以问它问题，它会给出答案，并且是受过高等教育的人所给出的答案水平。
 
 当你或你的组织将 Copilot 与商业数据保护配合使用时，将不会保存聊天。 所有数据都经过加密，Microsoft 不会保留任何提示或响应。 不会使用这些数据来训练模型，因此可以确信你的个人信息和组织信息都是保密的。
 
@@ -34,17 +33,19 @@ Copilot 能够做出假设，并在知识点之间建立联系，给我一个更
 
 > **注意：** 如果要使用自己的提示，请从你或客户感兴趣的一般知识主题开始。
 
-1. 切换到“Edge”选项卡，其中打开了 Copilot 并选择了 Web 范围。
+1. 若要启动 Microsoft Copilot，请打开新的 Edge 浏览器选项卡并导航到 <a href="https://copilot.microsoft.com" target="_blank">copilot.microsoft.com</a>。
 
-    ![显示 Microsoft Copilot 中 Web 模式的屏幕截图。](../Demos/Media/web_mode.png)
+1. 登录到非工作 Microsoft 帐户。
 
-1. 在“**有问题尽管问我...**”文本框中，从提示库文档中复制并粘贴提示或键入提示：
+    > **备注：** 如果登录到工作帐户，则会重定向到 Business Chat (m365.cloud.microsoft/chat) 
+
+1. 在“**Message Copilot**”文本框中，从提示库文档中复制并粘贴提示或键入：
 
     ```text
     What can you tell me about elephants?
     ```
 1. 选择“提交”**** 按钮。
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴提示：
+1. 在“**给 Copilot 发送消息**”文本框中，复制并粘贴提示：
 
     ```text
     I’m more interested in the power of an elephant. How many humans would it take to win a tug-of-war with an elephant?
@@ -61,11 +62,9 @@ Copilot 能够做出假设，并在知识点之间建立联系，给我一个更
 
 ### 演示步骤
 
-1. 通过单击“**新建主题**”来开启新主题。
+1. 通过单击“**查看历史记录**”，然后单击“**开始新聊天**”来开启新主题。
 
-    ![显示 Microsoft Copilot 中新主题的屏幕截图。](../Demos/Media/new_topic.png)
-
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴提示：
+1. 在“**给 Copilot 发送消息**”文本框中，复制并粘贴提示：
 
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years?
@@ -89,11 +88,9 @@ Copilot 能够做出假设，并在知识点之间建立联系，给我一个更
 
 ### 演示步骤
 
-1. 通过单击“**新建主题**”来开启新主题。
+1. 通过单击“**查看历史记录**”，然后单击“**开始新聊天**”来开启新主题。
 
-    ![显示 Microsoft Copilot 中新主题的屏幕截图。](../Demos/Media/new_topic.png)
-
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴提示：
+1. 在“**给 Copilot 发送消息**”文本框中，复制并粘贴提示：
 
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
@@ -107,17 +104,12 @@ Copilot 能够做出假设，并在知识点之间建立联系，给我一个更
 
 首先下载以下内容：[**此图像是什么.png**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/what_is_this_image.PNG)
 
-1. 通过单击“**新建主题**”来开启新主题。
+1. 通过单击“**查看历史记录**”，然后单击“**开始新聊天**”来开启新主题。
 
-    ![显示 Microsoft Copilot 中新主题的屏幕截图。](../Demos/Media/new_topic.png)
+1. 在页面底部，选择加号 (**+**) 图标。
 
-1. 选择页面底部的“**添加图像**”图标。
-
-    ![显示 Microsoft Copilot 中添加图像的屏幕截图。](../Demos/Media/add_an_image.png)
-
-1. 选择“**从此设备上传**”。
 1. 浏览到下载图像的位置，选择“**What is this picture.png**”，然后选择“**打开**”。
-1. 在“**问我什么...**” 文本框键入提示：
+1. 在“**给 Copilot 发送消息...**”中 文本框键入提示：
 
     ```text
     What is this picture?
@@ -127,34 +119,10 @@ Copilot 能够做出假设，并在知识点之间建立联系，给我一个更
 
 ### 显示 Copilot 如何创建图像
 
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴提示：
+1. 在“**给 Copilot 发送消息**”文本框中，复制并粘贴提示：
 
     ```text
     Copilot, make a banner for a hamburger stand. Make it friendly and show people enjoying a hamburger.
-    ```
-
-1. 选择“提交”**** 按钮。
-
-### 显示 Copilot 如何写一首歌
-
-1. 切换到登录到个人帐户的新浏览器会话。
-
-> **注意：** 此步骤需要使用个人帐户。 工作帐户将不起作用。
-
-1. 在右上角选择“**插件**”。
-
-    ![显示 Microsoft Copilot 中添加图像的屏幕截图。](../Demos/Media/copilot_plugins.png)
-
-1. 在可用插件列表中，启用 **Suno**。
-
-    ![显示 Microsoft Copilot 中添加图像的屏幕截图。](../Demos/Media/copilot_suno.png)
-
-    > **注意：** 若要使用 Suno，必须在 Copilot 中启动新主题，然后启用 Suno。
-
-1. 在“**有问题尽管问我...**”文本框中，复制并粘贴提示：
-
-    ```text
-    Write a country song about Microsoft Copilot, extolling its virtues as an AI companion. Make it catchy, upbeat, and a little quirky.
     ```
 
 1. 选择“提交”**** 按钮。

@@ -5,7 +5,7 @@ demo:
 
 [返回到索引](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Word 中的 Copilot
+# Microsoft 365 Copilot in Word
 
 ## 演示设置
 
@@ -60,7 +60,7 @@ demo:
     Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
     ```
 
-    > **注意：** 如果 Copilot for Word 未与你合作，则可以使用以下链接访问生成的文档：[**ContosoLearn 示例 Word 输出**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx)。
+    > **注意：** 如果 Copilot for Word 未与你合作，则可以使用以下链接访问生成的文档：[**ContosoLearn 示例 Word 输出**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/ContosoLearn%20Example%20Word%20Output%20(not%20to%20be%20used).docx)。
 
 ## 可选演示步骤
 
@@ -77,13 +77,13 @@ demo:
     Based on the document, how did AI impact Microsoft's earnings this year?
     ```
 
-1. 选择“发送”。  
+1. 选择**Send**。  
 1. 在“**询问关于此文档的任何内容**”字段中，复制并粘贴提示或键入： 
 
     ```text
     Copilot, generate a FAQ based on this document.
     ```
     
-1. 选择“发送”。
+1. 选择**Send**。
 
 [返回到索引](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
